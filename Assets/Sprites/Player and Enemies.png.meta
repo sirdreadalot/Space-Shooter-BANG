@@ -8,6 +8,15 @@ TextureImporter:
   - first:
       213: 3401744884425827203
     second: Player and Enemies_0
+  - first:
+      213: 3035017300150986327
+    second: Player and Enemies_1
+  - first:
+      213: -1036053548527364006
+    second: Player and Enemies_2
+  - first:
+      213: 3849520976039513699
+    second: Player and Enemies_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -121,7 +130,7 @@ TextureImporter:
         width: 102
         height: 83
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -129,6 +138,69 @@ TextureImporter:
       bones: []
       spriteID: d7c794444c84eec4da47b83c6bca412e
       internalID: 3401744884425827203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player and Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 437
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ab97534ef06604dbdf27d8670731fa
+      internalID: 3035017300150986327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player and Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 467
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec6039a9983f9941a2eb4745ada9ac4
+      internalID: -1036053548527364006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player and Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 178
+        width: 13
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a9a99e72f5800468cdec0b09738ccd
+      internalID: 3849520976039513699
       vertices: []
       indices: 
       edges: []
