@@ -9,7 +9,7 @@ public class warningEngine : MonoBehaviour
 
     public bool trigger = false;
 
-    public float timer = 10f;
+    public float timer = 5f;
 
     public Text timerText;
 
@@ -45,6 +45,6 @@ public class warningEngine : MonoBehaviour
     {
         trigger = false;
         uiArt.SetActive(false);
-        timer = 10f;
+        timer = 5f;
     }
 }
