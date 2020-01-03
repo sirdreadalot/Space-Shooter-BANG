@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 570572ca4857d6e488a99878c6cd7481
+  - enabled: 1
     path: Assets/Scenes/Space Shooter BANG.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/Game Over.unity
     guid: aff19ee85a948274ea39a0ac68b76e63
-  - enabled: 1
-    path: Assets/Scenes/Main Menu.unity
-    guid: 570572ca4857d6e488a99878c6cd7481
   m_configObjects: {}
