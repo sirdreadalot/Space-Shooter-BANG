@@ -841,7 +841,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c71d0970f34d1445af1f636019645e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 5
+  time: 2
   repeat: 1
   onTimerComplete:
     m_PersistentCalls:
@@ -948,7 +948,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c71d0970f34d1445af1f636019645e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  time: 5
+  time: 2
   repeat: 1
   onTimerComplete:
     m_PersistentCalls:
