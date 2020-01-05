@@ -13,6 +13,7 @@ public class Weapon : MonoBehaviour
     {
         isFiring = true;
         Instantiate(bulletPrefab, bulletSpawn.position, bulletSpawn.rotation);
+        SoundManager.PlaySound("Rocket");
         if (GetComponent<AudioSource>() != null)
         {
             GetComponent<AudioSource>().Play();

@@ -13,6 +13,7 @@ public class HealthSystem : MonoBehaviour
         onDamaged.Invoke(health);
         if (health < 1)
         {
+            SoundManager.PlaySound("EnemyDeath");
             onDie.Invoke();
         }
     }

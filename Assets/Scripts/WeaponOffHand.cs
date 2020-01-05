@@ -13,6 +13,7 @@ public class WeaponOffHand : MonoBehaviour
     {
         isFiring = true;
         Instantiate(bulletPrefab, bulletSpawn.position, bulletSpawn.rotation);
+        SoundManager.PlaySound("Laser");
         if (GetComponent<AudioSource>() != null)
         {
             GetComponent<AudioSource>().Play();

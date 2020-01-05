@@ -8,6 +8,7 @@ public class Player : MonoBehaviour
     {
         if (OnUpdateHealth != null)
         {
+            SoundManager.PlaySound("PlayerHit");
             OnUpdateHealth(health);
         }
     }
