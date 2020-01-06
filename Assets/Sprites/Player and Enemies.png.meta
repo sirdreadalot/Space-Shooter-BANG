@@ -17,6 +17,12 @@ TextureImporter:
   - first:
       213: 3849520976039513699
     second: Player and Enemies_3
+  - first:
+      213: 834056215309732984
+    second: Player and Enemies_4
+  - first:
+      213: -7749788951214229135
+    second: Player and Enemies_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -193,7 +199,7 @@ TextureImporter:
         width: 13
         height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -201,6 +207,48 @@ TextureImporter:
       bones: []
       spriteID: 20a9a99e72f5800468cdec0b09738ccd
       internalID: 3849520976039513699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player and Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 381
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de3082a220506745ab344bf28409c9a
+      internalID: 834056215309732984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player and Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 932
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38845090da76cb42820a40e72eca396
+      internalID: -7749788951214229135
       vertices: []
       indices: 
       edges: []
